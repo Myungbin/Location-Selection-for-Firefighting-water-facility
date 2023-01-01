@@ -6,7 +6,7 @@
 </div>
 
 ##  About <a name = "about"></a>
-
+- 2022-1학기 데이터사이언스입문 Capstone design Project
 
 ##  Project structure
 
